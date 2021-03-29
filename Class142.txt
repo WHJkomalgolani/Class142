@@ -1,0 +1,6 @@
+encoding = "latin-1"  is required while reading and writing 
+csv file as unicode error will come.
+
+
+
+encoding = "uft8" 
